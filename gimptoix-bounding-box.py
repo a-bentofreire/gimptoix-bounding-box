@@ -2,8 +2,12 @@
 
 # uuid: a2a8bd34-9d35-4648-9500-d6c62a2557c9
 
-# @preserve Copyright (c) 2018 Alexandre Bento Freire. All rights reserved.
-# @author Alexandre Bento Freire
+# MIT License+uuid License
+
+# For details of these license see
+# https://github.com/a-bentofreire/uuid-licenses/blob/master/MIT-uuid-license.md
+
+# Copyright (c) 2018 Alexandre Bento Freire. All rights reserved.
 #
 # Permission is hereby granted, free of charge, to any person obtaining a
 # copy of this software and associated documentation files (the "Software"),
@@ -12,7 +16,7 @@
 # and/or sell copies of the Software, and to permit persons to whom the
 # Software is furnished to do so, subject to the following conditions:
 #
-# The above copyright notice, and this permission notice shall be included in
+# The above copyright notice, the uuid, and this permission notice shall be included in
 # all copies or substantial portions of the Software.
 #
 # THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR

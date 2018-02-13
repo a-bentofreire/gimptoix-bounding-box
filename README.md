@@ -14,4 +14,4 @@ This plugin adds a menu entry at the bottom of Select Menu named 'Bounding Box'
 
 # License
 
-MIT License
+[MIT License+uuid License](https://github.com/a-bentofreire/uuid-licenses/blob/master/MIT-uuid-license.md)
